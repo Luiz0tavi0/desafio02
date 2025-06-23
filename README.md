@@ -78,3 +78,33 @@ class PessoaFisica(Cliente):
     _cpf: str
     _nome: str
     _data_nascimento: date
+```
+
+---
+
+## 🚧 Próxima Etapa
+
+Na **versão 2**, será feita a implementação dos métodos:
+
+- Execução de depósitos e saques
+- Validação de saldo, limites e histórico
+- Menu CLI ou testes unitários para interagir com o sistema
+
+---
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Para colaborar:
+
+```bash
+# Faça fork e clone o projeto
+git checkout -b melhoria/estrutura
+git commit -m "Melhoria na estrutura de classes"
+git push origin melhoria/estrutura
+```
+
+Abra um Pull Request e envie sua sugestão 👍
+
+---
+
+📌 Projeto criado como exercício de estruturação de código orientado a objetos com Python — **Versão 1: Somente Abstrações**
